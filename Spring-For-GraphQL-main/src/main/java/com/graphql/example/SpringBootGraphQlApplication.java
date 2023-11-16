@@ -9,6 +9,8 @@ public class SpringBootGraphQlApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBootGraphQlApplication.class, args);
 	}
+	
+	
 }
 
 

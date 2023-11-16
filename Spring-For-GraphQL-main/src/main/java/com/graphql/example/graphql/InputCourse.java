@@ -26,4 +26,5 @@ public class InputCourse {
 	public void setTeacher(String teacher) {
 		this.teacher = teacher;
 	}
+	
 }
